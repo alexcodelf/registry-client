@@ -1,4 +1,4 @@
-module github/alexcodelf/registry-client
+module github.com/alexcodelf/registry-client
 
 go 1.18
 
